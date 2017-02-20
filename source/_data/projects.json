@@ -1,0 +1,17 @@
+[
+   {
+      "name":"datrie",
+      "url":"https://github.com/brunoalano/datrie",
+      "desc":"Fast TRIE data structure for Strings"
+   },
+   {
+      "name":"HDBSCAN",
+      "url":"https://github.com/scikit-learn-contrib/hdbscan",
+      "desc":"A high performance implementation of HDBSCAN clustering."
+   },
+   {
+      "name": "appz",
+      "url":"https://github.com/brunoalano/appz",
+      "desc":"Phoneme based classification task on Arduino."
+   }
+]
